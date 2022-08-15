@@ -22,15 +22,23 @@ Link: https://github.com/hacUPB/evaluacion-1-NoName588.git
 
 Comandos:
 
-cd. para ingesar a carpetas
-ls. Para su estado
-git clone para clonar
-code . para ingresar al visual
-mkdir para crear carpta
-add para agregar cambios
-git init para hacer el Stage
-commit -m para comentarios
-log para conformar el envio del comentario
+-cd. para ingesar a carpetas
+
+-ls. Para su estado
+
+-git clone para clonar
+
+-code . para ingresar al visual
+
+-mkdir para crear carpta
+
+-add para agregar cambios
+
+-git init para hacer el Stage
+
+-commit -m para comentarios
+
+-log para conformar el envio del comentario
 
 
 
