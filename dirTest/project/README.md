@@ -1,6 +1,8 @@
 <h1> EVALUACION1 </h1>
 
-- 1. navegar por las carpetas con ls y cd y crear una nueva para el repositorio con mkdir.    
+<img scr="img/LinuxCD.jpg" alt="">
+
+-1. navegar por las carpetas con ls y cd y crear una nueva para el repositorio con mkdir.    
 
 -2. Clonar la carpeta con git clone.  
 
