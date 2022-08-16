@@ -1,6 +1,6 @@
 <h1> EVALUACION1 </h1>
 
-![alt text](https://imgur.com/kkoMoKx)
+![alt text](https://i.imgur.com/kkoMoKx.png)
 
 DESCIPCION
 
