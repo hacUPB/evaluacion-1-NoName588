@@ -1,6 +1,6 @@
 <h1> EVALUACION1 </h1>
 
-<img scr="img/LinuxCD.jpg" alt="">
+![alt text](https://imgur.com/kkoMoKx)
 
 DESCIPCION
 
