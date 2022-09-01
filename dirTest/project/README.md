@@ -1,27 +1,47 @@
+<h1> EVALUACION1 </h1>
 
-In this directory, you should write the program `wcat.c` and compile it into
-the binary `wcat` (e.g., `gcc -o wcat wcat.c -Wall -Werror`).
+![alt text](https://i.imgur.com/kkoMoKx.png)
 
-After doing so, you can run the tests from this directory by running the
-`test-wcat.sh` script. If all goes well, you will see:
+DESCIPCION
 
-```sh
-prompt> ./test-wcat.sh
-test 1: passed
-test 2: passed
-test 3: passed
-test 4: passed
-test 5: passed
-test 6: passed
-test 7: passed
-prompt>
-```
+-1. navegar por las carpetas con ls y cd y crear una nueva para el repositorio con mkdir.    
 
-The `test-wcat.sh` script is just a wrapper for the `run-tests.sh` script in
-the `tester` directory of this repository. This program has a few options; see
-the relevant
-[README](https://github.com/remzi-arpacidusseau/ostep-projects/blob/master/tester/README.md)
-for details.
+-2. Clonar la carpeta con git clone.  
+
+-3. ingresar con Visual por medio de Code .   
+
+-4. cambiar la carpeta wcat con el nuevo codigo.   
+
+-5. verificar el status y crear con git init la carpeta.git  
+
+-6. agregar a la carpeta wcat con add. 
+
+-7. luego enviar la documentacion con git commit
+
+-8. Buscar el README y editarlo con las instrucciones.
+
+Link: https://github.com/hacUPB/evaluacion-1-NoName588.git
+
+Comandos:
+
+-cd. para ingesar a carpetas
+
+-ls. Para su estado
+
+-git clone para clonar
+
+-code . para ingresar al visual
+
+-mkdir para crear carpta
+
+-add para agregar cambios
+
+-git init para hacer el Stage
+
+-commit -m para comentarios
+
+-log para conformar el envio del comentario
+
 
 
 
